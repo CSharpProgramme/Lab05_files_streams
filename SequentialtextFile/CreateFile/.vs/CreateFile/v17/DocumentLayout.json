@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF664DE3-8A81-4BEC-88F4-EB3E8DC7C228}|CreateFile\\CreateFile.csproj|c:\\users\\steve\\desktop\\lab05_files_streams\\sequentialtextfile\\createfile\\createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF664DE3-8A81-4BEC-88F4-EB3E8DC7C228}|CreateFile\\CreateFile.csproj|solutionrelative:createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF664DE3-8A81-4BEC-88F4-EB3E8DC7C228}|CreateFile\\CreateFile.csproj|C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF664DE3-8A81-4BEC-88F4-EB3E8DC7C228}|CreateFile\\CreateFile.csproj|solutionrelative:createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF664DE3-8A81-4BEC-88F4-EB3E8DC7C228}|CreateFile\\CreateFile.csproj|C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\createfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF664DE3-8A81-4BEC-88F4-EB3E8DC7C228}|CreateFile\\CreateFile.csproj|solutionrelative:createfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\CreateFile\\Program.cs",
+              "RelativeDocumentMoniker": "CreateFile\\Program.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\CreateFile\\Program.cs",
+              "RelativeToolTip": "CreateFile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T21:35:49.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\CreateFile\\Form1.cs",
+              "RelativeDocumentMoniker": "CreateFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\CreateFile\\Form1.cs",
+              "RelativeToolTip": "CreateFile\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAE8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:33:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\SequentialtextFile\\CreateFile\\CreateFile\\Form1.cs",
+              "RelativeDocumentMoniker": "CreateFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\CreateFile\\CreateFile\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\CreateFile\\CreateFile\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:19:05.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

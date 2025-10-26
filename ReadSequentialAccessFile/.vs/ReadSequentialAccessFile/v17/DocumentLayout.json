@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|c:\\users\\steve\\desktop\\lab05_files_streams\\readsequentialaccessfile\\readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|solutionrelative:readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|c:\\users\\steve\\desktop\\lab05_files_streams\\readsequentialaccessfile\\readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|solutionrelative:readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|c:\\users\\steve\\desktop\\lab05_files_streams\\readsequentialaccessfile\\readsequentialaccessfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|solutionrelative:readsequentialaccessfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Program.cs",
+              "RelativeDocumentMoniker": "ReadSequentialAccessFile\\Program.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Program.cs",
+              "RelativeToolTip": "ReadSequentialAccessFile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:53:53.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
+              "RelativeDocumentMoniker": "ReadSequentialAccessFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
+              "RelativeToolTip": "ReadSequentialAccessFile\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:23:50.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
+              "RelativeDocumentMoniker": "ReadSequentialAccessFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs [Design]",
+              "RelativeToolTip": "ReadSequentialAccessFile\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:19:30.601Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

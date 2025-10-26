@@ -1,0 +1,10 @@
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\bin\Debug\SequentialAccessText.dll.config
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\bin\Debug\SequentialAccessText.dll
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\bin\Debug\SequentialAccessText.pdb
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\obj\Debug\SequentialAccessText.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\obj\Debug\SequentialAccessText.BankUIForm.resources
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\obj\Debug\SequentialAccessText.Properties.Resources.resources
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\obj\Debug\SequentialAccessText.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\obj\Debug\SequentialAccessText.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\obj\Debug\SequentialAccessText.dll
+C:\Users\steve\Desktop\Lab05_files_streams\SequentialAccessText\SequentialAccessText\obj\Debug\SequentialAccessText.pdb
