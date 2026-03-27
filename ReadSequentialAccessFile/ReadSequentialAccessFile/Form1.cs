@@ -16,6 +16,7 @@ namespace ReadSequentialAccessFile
     {
         private StreamReader fileReader; //reads data from a text file
 
+        //parameterless constructor
         public ReadSequentialAccessFileForm()
         {
             InitializeComponent();
