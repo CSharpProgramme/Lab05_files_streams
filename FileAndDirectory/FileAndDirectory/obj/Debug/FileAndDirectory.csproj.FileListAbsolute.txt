@@ -1,0 +1,10 @@
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\bin\Debug\FileAndDirectory.exe.config
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\bin\Debug\FileAndDirectory.exe
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\bin\Debug\FileAndDirectory.pdb
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\obj\Debug\FileAndDirectory.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\obj\Debug\FileAndDirectory.FileAndDirectoryForm.resources
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\obj\Debug\FileAndDirectory.Properties.Resources.resources
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\obj\Debug\FileAndDirectory.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\obj\Debug\FileAndDirectory.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\obj\Debug\FileAndDirectory.exe
+C:\Users\steve\Desktop\Lab05_files_streams\FileAndDirectory\FileAndDirectory\obj\Debug\FileAndDirectory.pdb

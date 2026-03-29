@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 //class that represents a data record
 namespace SequentialAccessText
 {
+    [Serializable]
     public class Record
     {
         private int account;

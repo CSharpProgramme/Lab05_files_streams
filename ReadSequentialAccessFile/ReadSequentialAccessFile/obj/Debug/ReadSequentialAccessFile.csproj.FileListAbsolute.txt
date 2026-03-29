@@ -12,3 +12,4 @@ C:\Users\steve\Desktop\Lab05_files_streams\ReadSequentialAccessFile\ReadSequenti
 C:\Users\steve\Desktop\Lab05_files_streams\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequ.A38A5206.Up2Date
 C:\Users\steve\Desktop\Lab05_files_streams\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.exe
 C:\Users\steve\Desktop\Lab05_files_streams\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.pdb
+C:\Users\steve\Desktop\Lab05_files_streams\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.exe.config
