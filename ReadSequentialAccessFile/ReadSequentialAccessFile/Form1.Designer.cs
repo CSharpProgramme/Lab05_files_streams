@@ -32,9 +32,41 @@
             this.nextButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
+            // accountLabel
+            // 
+            this.accountLabel.Location = new System.Drawing.Point(46, 36);
+            // 
+            // firstNameLabel
+            // 
+            this.firstNameLabel.Location = new System.Drawing.Point(46, 82);
+            // 
+            // lastNameLabel
+            // 
+            this.lastNameLabel.Location = new System.Drawing.Point(46, 127);
+            // 
+            // balanceLabel
+            // 
+            this.balanceLabel.Location = new System.Drawing.Point(46, 178);
+            // 
+            // accountTextBox
+            // 
+            this.accountTextBox.Location = new System.Drawing.Point(127, 29);
+            // 
+            // firstNameTextBox
+            // 
+            this.firstNameTextBox.Location = new System.Drawing.Point(127, 75);
+            // 
+            // lastNameTextBox
+            // 
+            this.lastNameTextBox.Location = new System.Drawing.Point(127, 120);
+            // 
+            // balanceTextBox
+            // 
+            this.balanceTextBox.Location = new System.Drawing.Point(127, 175);
+            // 
             // openButton
             // 
-            this.openButton.Location = new System.Drawing.Point(68, 246);
+            this.openButton.Location = new System.Drawing.Point(49, 215);
             this.openButton.Name = "openButton";
             this.openButton.Size = new System.Drawing.Size(117, 44);
             this.openButton.TabIndex = 8;
@@ -44,7 +76,7 @@
             // 
             // nextButton
             // 
-            this.nextButton.Location = new System.Drawing.Point(202, 246);
+            this.nextButton.Location = new System.Drawing.Point(183, 215);
             this.nextButton.Name = "nextButton";
             this.nextButton.Size = new System.Drawing.Size(112, 44);
             this.nextButton.TabIndex = 9;
@@ -56,7 +88,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(390, 358);
+            this.ClientSize = new System.Drawing.Size(340, 288);
             this.Controls.Add(this.nextButton);
             this.Controls.Add(this.openButton);
             this.Name = "ReadSequentialAccessFileForm";

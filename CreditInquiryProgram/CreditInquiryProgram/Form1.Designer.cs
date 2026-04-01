@@ -38,7 +38,7 @@
             // 
             // displayTextBox
             // 
-            this.displayTextBox.Location = new System.Drawing.Point(72, 67);
+            this.displayTextBox.Location = new System.Drawing.Point(18, 20);
             this.displayTextBox.Name = "displayTextBox";
             this.displayTextBox.Size = new System.Drawing.Size(528, 179);
             this.displayTextBox.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             // openButton
             // 
-            this.openButton.Location = new System.Drawing.Point(72, 290);
+            this.openButton.Location = new System.Drawing.Point(18, 219);
             this.openButton.Name = "openButton";
             this.openButton.Size = new System.Drawing.Size(75, 23);
             this.openButton.TabIndex = 1;
@@ -57,7 +57,7 @@
             // creditButton
             // 
             this.creditButton.AutoSize = true;
-            this.creditButton.Location = new System.Drawing.Point(175, 290);
+            this.creditButton.Location = new System.Drawing.Point(121, 219);
             this.creditButton.Name = "creditButton";
             this.creditButton.Size = new System.Drawing.Size(91, 23);
             this.creditButton.TabIndex = 2;
@@ -68,7 +68,7 @@
             // debitButton
             // 
             this.debitButton.AutoSize = true;
-            this.debitButton.Location = new System.Drawing.Point(294, 290);
+            this.debitButton.Location = new System.Drawing.Point(240, 219);
             this.debitButton.Name = "debitButton";
             this.debitButton.Size = new System.Drawing.Size(89, 23);
             this.debitButton.TabIndex = 3;
@@ -79,7 +79,7 @@
             // zeroButton
             // 
             this.zeroButton.AutoSize = true;
-            this.zeroButton.Location = new System.Drawing.Point(411, 290);
+            this.zeroButton.Location = new System.Drawing.Point(357, 219);
             this.zeroButton.Name = "zeroButton";
             this.zeroButton.Size = new System.Drawing.Size(86, 23);
             this.zeroButton.TabIndex = 4;
@@ -90,7 +90,7 @@
             // doneButton
             // 
             this.doneButton.AutoSize = true;
-            this.doneButton.Location = new System.Drawing.Point(525, 290);
+            this.doneButton.Location = new System.Drawing.Point(471, 219);
             this.doneButton.Name = "doneButton";
             this.doneButton.Size = new System.Drawing.Size(75, 23);
             this.doneButton.TabIndex = 5;
@@ -102,7 +102,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(672, 380);
+            this.ClientSize = new System.Drawing.Size(564, 262);
             this.Controls.Add(this.doneButton);
             this.Controls.Add(this.zeroButton);
             this.Controls.Add(this.debitButton);

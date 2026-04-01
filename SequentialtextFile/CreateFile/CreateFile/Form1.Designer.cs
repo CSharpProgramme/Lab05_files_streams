@@ -33,9 +33,41 @@
             this.exitButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
+            // accountLabel
+            // 
+            this.accountLabel.Location = new System.Drawing.Point(48, 33);
+            // 
+            // firstNameLabel
+            // 
+            this.firstNameLabel.Location = new System.Drawing.Point(48, 79);
+            // 
+            // lastNameLabel
+            // 
+            this.lastNameLabel.Location = new System.Drawing.Point(48, 124);
+            // 
+            // balanceLabel
+            // 
+            this.balanceLabel.Location = new System.Drawing.Point(48, 175);
+            // 
+            // accountTextBox
+            // 
+            this.accountTextBox.Location = new System.Drawing.Point(129, 26);
+            // 
+            // firstNameTextBox
+            // 
+            this.firstNameTextBox.Location = new System.Drawing.Point(129, 72);
+            // 
+            // lastNameTextBox
+            // 
+            this.lastNameTextBox.Location = new System.Drawing.Point(129, 117);
+            // 
+            // balanceTextBox
+            // 
+            this.balanceTextBox.Location = new System.Drawing.Point(129, 172);
+            // 
             // saveButton
             // 
-            this.saveButton.Location = new System.Drawing.Point(70, 260);
+            this.saveButton.Location = new System.Drawing.Point(53, 226);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(75, 23);
             this.saveButton.TabIndex = 8;
@@ -45,7 +77,7 @@
             // 
             // enterButton
             // 
-            this.enterButton.Location = new System.Drawing.Point(156, 260);
+            this.enterButton.Location = new System.Drawing.Point(139, 226);
             this.enterButton.Name = "enterButton";
             this.enterButton.Size = new System.Drawing.Size(75, 23);
             this.enterButton.TabIndex = 9;
@@ -55,7 +87,7 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(241, 260);
+            this.exitButton.Location = new System.Drawing.Point(224, 226);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(75, 23);
             this.exitButton.TabIndex = 10;
@@ -67,12 +99,20 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(386, 348);
+            this.ClientSize = new System.Drawing.Size(347, 275);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.enterButton);
             this.Controls.Add(this.saveButton);
             this.Name = "CreateFileForm";
             this.Text = "Creating a Sequence File";
+            this.Controls.SetChildIndex(this.accountLabel, 0);
+            this.Controls.SetChildIndex(this.firstNameLabel, 0);
+            this.Controls.SetChildIndex(this.lastNameLabel, 0);
+            this.Controls.SetChildIndex(this.balanceLabel, 0);
+            this.Controls.SetChildIndex(this.accountTextBox, 0);
+            this.Controls.SetChildIndex(this.firstNameTextBox, 0);
+            this.Controls.SetChildIndex(this.lastNameTextBox, 0);
+            this.Controls.SetChildIndex(this.balanceTextBox, 0);
             this.Controls.SetChildIndex(this.saveButton, 0);
             this.Controls.SetChildIndex(this.enterButton, 0);
             this.Controls.SetChildIndex(this.exitButton, 0);

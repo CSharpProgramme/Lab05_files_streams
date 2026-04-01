@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\",
+  "WorkspaceRootPath": "C:\\Users\\1971537\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|C:\\Users\\1971537\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|solutionrelative:readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|c:\\users\\steve\\desktop\\lab05_files_streams\\readsequentialaccessfile\\readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|c:\\users\\1971537\\desktop\\lab05_files_streams\\readsequentialaccessfile\\readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8A9249A-8948-4197-B01E-1B6161D71F3E}|ReadSequentialAccessFile\\ReadSequentialAccessFile.csproj|solutionrelative:readsequentialaccessfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1971537\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
               "RelativeDocumentMoniker": "ReadSequentialAccessFile\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\1971537\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
               "RelativeToolTip": "ReadSequentialAccessFile\\Form1.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowDsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1971537\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs",
               "RelativeDocumentMoniker": "ReadSequentialAccessFile\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\1971537\\Desktop\\Lab05_files_streams\\ReadSequentialAccessFile\\ReadSequentialAccessFile\\Form1.cs [Design]",
               "RelativeToolTip": "ReadSequentialAccessFile\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T23:19:30.601Z",

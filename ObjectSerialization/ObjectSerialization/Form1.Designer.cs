@@ -33,9 +33,41 @@
             this.exitButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
+            // accountLabel
+            // 
+            this.accountLabel.Location = new System.Drawing.Point(111, 37);
+            // 
+            // firstNameLabel
+            // 
+            this.firstNameLabel.Location = new System.Drawing.Point(111, 83);
+            // 
+            // lastNameLabel
+            // 
+            this.lastNameLabel.Location = new System.Drawing.Point(111, 128);
+            // 
+            // balanceLabel
+            // 
+            this.balanceLabel.Location = new System.Drawing.Point(111, 179);
+            // 
+            // accountTextBox
+            // 
+            this.accountTextBox.Location = new System.Drawing.Point(192, 30);
+            // 
+            // firstNameTextBox
+            // 
+            this.firstNameTextBox.Location = new System.Drawing.Point(192, 76);
+            // 
+            // lastNameTextBox
+            // 
+            this.lastNameTextBox.Location = new System.Drawing.Point(192, 121);
+            // 
+            // balanceTextBox
+            // 
+            this.balanceTextBox.Location = new System.Drawing.Point(192, 176);
+            // 
             // saveButton
             // 
-            this.saveButton.Location = new System.Drawing.Point(68, 248);
+            this.saveButton.Location = new System.Drawing.Point(114, 218);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(75, 23);
             this.saveButton.TabIndex = 8;
@@ -45,7 +77,7 @@
             // 
             // enterButton
             // 
-            this.enterButton.Location = new System.Drawing.Point(169, 247);
+            this.enterButton.Location = new System.Drawing.Point(215, 217);
             this.enterButton.Name = "enterButton";
             this.enterButton.Size = new System.Drawing.Size(75, 23);
             this.enterButton.TabIndex = 9;
@@ -55,7 +87,7 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(270, 247);
+            this.exitButton.Location = new System.Drawing.Point(316, 217);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(75, 23);
             this.exitButton.TabIndex = 10;
@@ -67,7 +99,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(391, 319);
+            this.ClientSize = new System.Drawing.Size(503, 270);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.enterButton);
             this.Controls.Add(this.saveButton);
